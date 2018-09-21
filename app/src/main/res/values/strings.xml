@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nuevo NIP de Acceso</string>
+    <string name="IngreseNuevoNip" >Ingrese el nuevo NIP de Acceso</string>
+    <string name="nipAcceso">NIP de Acceso</string>
+    <string name="confirmarNipAcceso" >Confirmar NIP de Acceso</string>
+    <string name="btnConfirmar">Confirmar</string>
+    <string name="tituloNuevoNipAcceso">Nuevo NIP de Acceso</string>
+</resources>
